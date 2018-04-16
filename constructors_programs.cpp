@@ -11,6 +11,7 @@ private:
 public:
     simpleinterest(int p1,int r1,int t1)
     {
+	    //enter the given values
        // <<"Enter principal amount, rate of interest, time period.\n";
         //>>p>>r>>t;
         p=p1;
