@@ -22,7 +22,8 @@ public:
     {
         float c;
         c=(p*r*t)/100;
-        cout<<"The simple interest is "<<c<<" after a period of "<<t<<" years";
+   cout<<"it's sajal";//Formula for si is given above
+     cout<<"The simple interest is "<<c<<" after a period of "<<t<<" years";
     }
 };
 int main()
