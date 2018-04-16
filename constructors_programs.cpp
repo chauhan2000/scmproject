@@ -30,7 +30,7 @@ int main()
 {
     int l,m,n;
     cout<<"Enter principal, rate, time period.\n";
-    cin>>l>>m>>n;
+    cin>>l>>m>>n; // commenting by the owner(Rachit) now taking values from the user
     //simpleinterest object;  //calling of default const
     simpleinterest object(l,m,n);  //calling of default const
     object.calculate();
